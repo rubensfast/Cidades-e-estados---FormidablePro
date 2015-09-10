@@ -1,4 +1,4 @@
-# Estados e cidades dinâmicos com formidablepro
+# Combos dinâmicos com formidablepro - Estado e Cidade
 
 <b>Para instalar é simples, baixe o plugin formidablepro:</b>
 www.formidablepro.com
